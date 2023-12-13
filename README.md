@@ -2,6 +2,8 @@
 
 Ce document va vous aider (j'espère) à éviter les problèmes qui ne sont pas indiqués dans les polycopiés  qu'on vous a remis.
 
+(mon `main.py` est désastreux mais normalement il remplit les critères de la catégorie 1)
+
 ### 1. Device is busy
 ```
 Device is busy or does not respond. Your options:
