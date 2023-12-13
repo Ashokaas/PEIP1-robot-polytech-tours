@@ -3,6 +3,7 @@
 Ce document va vous aider (j'espère) à éviter les problèmes qui ne sont pas indiqués dans les polycopiés  qu'on vous a remis.
 
 (mon `main.py` est désastreux mais normalement il remplit les critères de la catégorie 1)
+(genre vraiment catastrophique)
 
 ### 1. Device is busy
 ```
